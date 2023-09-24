@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="496eda9e-ffe2-43b8-b81a-4c6c5102c94e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DeepSmellDetector/src/main/java/com/john/DeepSmellDetector/BasicConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepSmellDetector/src/main/java/com/john/DeepSmellDetector/PredictionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepSmellDetector/src/test/java/com/john/DeepSmellDetector/CodeSmellDetectionControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepSmellDetector/src/test/java/com/john/DeepSmellDetector/FeatureExtractorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gc_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gc_scalar.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lm_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lm_scalar.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaler.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepSmellDetector/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepSmellDetector/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepSmellDetector/src/main/java/com/john/DeepSmellDetector/CodeSmellDetectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepSmellDetector/src/main/java/com/john/DeepSmellDetector/CodeSmellDetectionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepSmellDetector/src/main/java/com/john/DeepSmellDetector/FeatureExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepSmellDetector/src/main/java/com/john/DeepSmellDetector/FeatureExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discussion with superviser.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Discussion with superviser.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/long_method72.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/long_method75.h5" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V7NUuKNpsccxzPb4mLMGazbjF4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JOHN/OneDrive - Staffordshire University/Dissertation/prediction&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JOHN\OneDrive - Staffordshire University\Dissertation\prediction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JOHN\OneDrive - Staffordshire University\Dissertation\prediction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.new_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="496eda9e-ffe2-43b8-b81a-4c6c5102c94e" name="Changes" comment="" />
+      <created>1694183180917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694183180917</updated>
+      <workItem from="1694183182224" duration="2644000" />
+      <workItem from="1694187426217" duration="1045000" />
+      <workItem from="1694189020790" duration="1541000" />
+      <workItem from="1694192256882" duration="1047000" />
+      <workItem from="1694202533553" duration="1372000" />
+      <workItem from="1694263341003" duration="2701000" />
+      <workItem from="1694274724363" duration="653000" />
+      <workItem from="1694286423143" duration="3419000" />
+      <workItem from="1694525365766" duration="6234000" />
+      <workItem from="1694689527930" duration="8592000" />
+      <workItem from="1694718869901" duration="9254000" />
+      <workItem from="1695433103183" duration="3361000" />
+      <workItem from="1695560065492" duration="2176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/prediction$new_app.coverage" NAME="new_app Coverage Results" MODIFIED="1694693968213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prediction$app.coverage" NAME="app Coverage Results" MODIFIED="1695574902894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

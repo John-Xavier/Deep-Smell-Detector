@@ -1,0 +1,125 @@
+.bg-blue {
+    background-color: #00A6FB;
+}
+
+.btn-blue {
+    background-color: #00A6FB;
+    color: #FFFFFF;
+}
+
+.btn-blue:hover {
+    background-color: #008FD5;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #E9E9E9;
+    text-align: center;
+}
+
+.spinner {
+    border: 8px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    border-top: 8px solid skyblue;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+.banner {
+    height: 100vh;
+    background: url('images/gradientBlueLines.jpg') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.success-message {
+    display: block;
+    border: 1px solid #4CAF50;
+    padding: 10px 15px;
+    margin-top: 10px;
+    background-color: #e8f5e9;
+    color: #4CAF50;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.failed-message {
+    display: block;
+    border: 1px solid #f44336;
+    padding: 10px 15px;
+    margin-top: 10px;
+    background-color: #ffebee;
+    color: #f44336;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.banner-content {
+    text-align: center;
+    color: white;
+}
+
+.banner-content h1 {
+    font-size: 3.5em;
+    margin-bottom: 20px;
+}
+
+.banner-content p {
+    font-size: 1.5 em;
+    margin-bottom: 30px;
+}
+
+.results-container {
+    margin: 20px;
+}
+
+
+.table thead {
+    background-color: #00A6FB;
+    color: #FFFFFF;
+}
+
+.table tbody tr:hover {
+    background-color: #008FD5;
+    color: #FFFFFF;
+}
+
+.table,
+.table th,
+.table td {
+    border: 1px solid #008FD5;
+}
+
+.table th {
+    vertical-align: middle;
+    text-align: left;
+}
+
+#loading {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
