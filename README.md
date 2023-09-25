@@ -20,4 +20,6 @@ You can use IntelliJ IDEA with Python installed to open and run this project.
 ## Instructions to run
 1. Open the python app and run in IntelliJ IDEA.
 2. Open Java project in a different window in IntelliJ IDEA and run the 'DeepSmellDetectorApplication'.
-3. Run the website from Visual Studio Code or any similar application.
+3. Open index.html in a live server from Microsoft visual studio code. (Directly opening the html file may cause CORS error)
+
+Dataset Reference : https://zenodo.org/record/6555241
